@@ -1,4 +1,4 @@
-# Python_Automating_Excel_CSV
+# Python_Pandas_Automating_Excel_CSV
 
 Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. 
 
